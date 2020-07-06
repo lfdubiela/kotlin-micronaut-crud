@@ -3,5 +3,6 @@
 - micronaut
 - JPA 
 - hiraki
+- h2
 - junit
 - logback
